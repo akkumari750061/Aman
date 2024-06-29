@@ -8,6 +8,10 @@
   archive="banking2.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
+
+<attribute name="webrootdir" value="WebRoot02" />
+
+<attribute name="webrootdir" value="WebRoot03" />
   </attributes>
 </project-module>
 
