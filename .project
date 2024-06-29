@@ -35,6 +35,11 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+		<buildCommand>
+			<name>com.genuitec.eclipse.ast.deploy.core.DeploymentBuilder012345678</name>
+			<arguments>
+			</arguments>
+
 	</buildSpec>
 	<natures>
 		<nature>com.genuitec.eclipse.ast.deploy.core.deploymentnature</nature>
